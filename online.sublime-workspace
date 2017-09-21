@@ -1,0 +1,556 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"Sta",
+				"STATIC_ROOT"
+			],
+			[
+				"ref",
+				"ref_url"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"re",
+				"ref_id"
+			],
+			[
+				"get",
+				"get_ref_id"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"new",
+				"new_join_old"
+			],
+			[
+				"ip",
+				"ip_address"
+			],
+			[
+				"Join",
+				"JoinForm"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"queryset",
+				"queryset_list"
+			],
+			[
+				"pre",
+				"pre_save_post_receiver"
+			],
+			[
+				"slu",
+				"slug"
+			],
+			[
+				"h",
+				"height_field"
+			],
+			[
+				"ob",
+				"object_list"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"Post",
+				"PostForm"
+			],
+			[
+				"po",
+				"post_delete"
+			],
+			[
+				"pos",
+				"post_update"
+			],
+			[
+				"p",
+				"post_delete"
+			],
+			[
+				"post",
+				"post_list"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"lis",
+				"list_display"
+			],
+			[
+				"Po",
+				"PostAdmin"
+			],
+			[
+				"to",
+				"to_html"
+			],
+			[
+				"ve",
+				"VehicleTypeElement"
+			],
+			[
+				"from",
+				"fromstate"
+			],
+			[
+				"elem",
+				"elements"
+			],
+			[
+				"find",
+				"find_element_by_xpath"
+			],
+			[
+				"web",
+				"webdriverWait"
+			],
+			[
+				"lo",
+				"loginButtonElement"
+			],
+			[
+				"pas",
+				"passFieldElement"
+			],
+			[
+				"email",
+				"emailFieldElement"
+			],
+			[
+				"login",
+				"loginButtonXpath"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "online/online/settings.py",
+			"settings":
+			{
+				"buffer_size": 1728,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "online/online/wsgi.py",
+			"settings":
+			{
+				"buffer_size": 387,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "online/online/urls.py",
+			"settings":
+			{
+				"buffer_size": 297,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Bekif/Desktop/online/online",
+		"/Users/Bekif/Desktop/online/online/online"
+	],
+	"file_history":
+	[
+		"/Users/Bekif/Desktop/online_shopping/src/manage.py",
+		"/Users/Bekif/Desktop/online_shopping/src/.gitignore",
+		"/Users/Bekif/Desktop/online_shopping/src/trydjango18/urls.py",
+		"/Users/Bekif/Desktop/online_shopping/src/trydjango18/settings/production.py",
+		"/Users/Bekif/Desktop/online_shopping/src/trydjango18/settings/local.py",
+		"/Users/Bekif/Desktop/online_shopping/src/trydjango18/settings/base.py",
+		"/Users/Bekif/Desktop/online_shopping/src/trydjango18/old_settings.py",
+		"/Users/Bekif/Desktop/online_shopping/src/trydjango18/wsgi.py",
+		"/Users/Bekif/Desktop/first/templates/base.html",
+		"/Users/Bekif/Desktop/first/templates/navbar.html",
+		"/Users/Bekif/Desktop/first/lwc/settings_old.py",
+		"/Users/Bekif/Desktop/first/lwc/settings/base.py",
+		"/Users/Bekif/Desktop/first/lwc/settings/production.py",
+		"/Users/Bekif/Desktop/django1.6/src/templates/400.html",
+		"/Users/Bekif/Desktop/first/templates/home.html",
+		"/Users/Bekif/Desktop/first/templates/donotuse.html",
+		"/Users/Bekif/Desktop/lau 2/templates/home.html",
+		"/Users/Bekif/Desktop/lau 2/templates/base.html",
+		"/Users/Bekif/Desktop/lau/templates/home.html",
+		"/Users/Bekif/Desktop/lau/templates/base.html",
+		"/Users/Bekif/Desktop/lau/templates/donotuse.html",
+		"/Users/Bekif/Desktop/lau/templates/404.html",
+		"/Users/Bekif/Desktop/lau/templates/400.html",
+		"/Users/Bekif/Desktop/django1.6/src/lwc/settings_old.py",
+		"/Users/Bekif/Desktop/python-getting-started/lwc.sublime-project",
+		"/Users/Bekif/Desktop/django1.6/src/lwc/settings/__init__.py",
+		"/Users/Bekif/Desktop/django1.6/src/lwc/settings/base.py",
+		"/Users/Bekif/Desktop/django1.6/src/lwc/settings/local.py",
+		"/Users/Bekif/Desktop/django1.6/src/manage.py",
+		"/Users/Bekif/Desktop/django1.6/src/requirements.txt",
+		"/Users/Bekif/Desktop/django1.6/src/lwc/settings/production.py",
+		"/Users/Bekif/Desktop/django1.6/src/lwc/wsgi.py",
+		"/Users/Bekif/Desktop/django1.6/src/README.md",
+		"/Users/Bekif/Desktop/django1.6/src/templates/404.html",
+		"/Users/Bekif/Desktop/django1.6/src/templates/500.html",
+		"/Users/Bekif/Desktop/django1.6/src/.gitignore",
+		"/Users/Bekif/Desktop/django1.6/src/Procfile",
+		"/Users/Bekif/Desktop/django1.6/src/templates/share.html",
+		"/Users/Bekif/Desktop/django1.6/src/lwc/settings.py",
+		"/Users/Bekif/Desktop/django1.6/src/templates/base.html",
+		"/Users/Bekif/Desktop/django1.6/src/templates/home.html",
+		"/Users/Bekif/Desktop/django1.6/lwc.sublime-project",
+		"/Users/Bekif/Desktop/django1.6/src/lwc/urls.py",
+		"/Users/Bekif/Desktop/django1.6/src/lwc/views.py",
+		"/Users/Bekif/Desktop/django1.6/src/joins/views.py",
+		"/Users/Bekif/Desktop/django1.6/src/templates/navbar.html",
+		"/Users/Bekif/Desktop/Gmetrix_Grader.py",
+		"/Users/Bekif/Desktop/ALL/Python_Projects/CarSearch/carscom.py",
+		"/Users/Bekif/Desktop/ALL/Python_Projects/CarSearch/craigslist.py",
+		"/Users/Bekif/Desktop/DjangoProject/src/posts/views.py",
+		"/Users/Bekif/Desktop/DjangoProject/src/templates/post_detail.html",
+		"/Users/Bekif/Desktop/DjangoProject/src/templates/base.html",
+		"/Users/Bekif/Desktop/DjangoProject/src/posts/models.py",
+		"/Users/Bekif/Desktop/DjangoProject/src/templates/post_list.html",
+		"/Users/Bekif/Desktop/DjangoProject/src/templates/post_form.html",
+		"/Users/Bekif/Desktop/DjangoProject/src/posts/urls.py",
+		"/Users/Bekif/Desktop/DjangoProject/firstdjango.sublime-project",
+		"/Users/Bekif/Desktop/DjangoProject/src/posts/forms.py",
+		"/Users/Bekif/Desktop/DjangoProject/src/firstdjango/settings.py",
+		"/Users/Bekif/Desktop/DjangoProject/src/firstdjango/urls.py",
+		"/Users/Bekif/Desktop/DjangoProject/media_cdn/26/7777.jpg",
+		"/Users/Bekif/Desktop/DjangoProject/src/static/css/base.css",
+		"/Users/Bekif/Desktop/DjangoProject/static_cdn/css/base.css",
+		"/Users/Bekif/Desktop/DjangoProject/src/templates/messages_display.html",
+		"/Users/Bekif/Desktop/DjangoProject/src/templates/index.html",
+		"/Users/Bekif/Desktop/typing_program.py",
+		"/Users/Bekif/Downloads/Gmetrix_Grader.py",
+		"/Users/Bekif/Downloads/Gmetrix_Grader (1).py",
+		"/Users/Bekif/Desktop/DjangoProject/src/templates/aaa.html",
+		"/Users/Bekif/Desktop/DjangoProject/src/posts/apps.py",
+		"/Users/Bekif/Desktop/DjangoProject/src/posts/admin.py",
+		"/Users/Bekif/Desktop/vote.py",
+		"/Users/Bekif/Desktop/hulk.py",
+		"/Users/Bekif/Desktop/ALL/Python_Projects/Image_Reader/Image_Reader.py",
+		"/Users/Bekif/Desktop/Gurdow/css/grid.css",
+		"/Users/Bekif/Desktop/Gurdow/css/style.css",
+		"/Users/Bekif/Desktop/Gurdow/index.html",
+		"/Users/Bekif/Desktop/eee.py",
+		"/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site.py",
+		"/Users/Bekif/Desktop/aa.py",
+		"/Users/Bekif/Desktop/kivy.py",
+		"/Users/Bekif/PycharmProjects/gmetrix/gmet.py",
+		"/Users/Bekif/Desktop/navigate.py",
+		"/Users/Bekif/Desktop/rand.py",
+		"/Users/Bekif/Desktop/1234.py",
+		"/Users/Bekif/Desktop/craigslist.py",
+		"/Users/Bekif/Desktop/reklam.py",
+		"/Users/Bekif/Desktop/SENIOR DESIGN PROJECT/navigate.py",
+		"/Users/Bekif/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/6667BEDC-3B4C-4199-BB47-204AF337EB5E/navigate.py",
+		"/Users/Bekif/Desktop/Projects/gmetrix.py",
+		"/Users/Bekif/Desktop/Gmet.py",
+		"/Users/Bekif/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/1DEEB832-CAEE-4CB3-A7C3-A04A18390708/Gmetrix Data.py",
+		"/Users/Bekif/Desktop/123.py",
+		"/Users/Bekif/Desktop/1234..py",
+		"/Users/Bekif/Desktop/SENIOR DESIGN PROJECT/carscom.py",
+		"/Users/Bekif/Desktop/example.py",
+		"/Users/Bekif/Desktop/sub1.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/Bekif/Desktop/online_shopping/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"trydjango18",
+			"ne_shopping",
+			"trydjango18",
+			"product",
+			"hr",
+			"previous",
+			"h3",
+			"container",
+			"row",
+			"kivy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"online_shopping"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "online/online/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "online/online/wsgi.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "online/online/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "online.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
